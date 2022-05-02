@@ -43,5 +43,5 @@ Self Learning
 
 - **[SJTU captcha recognition](https://dusmart.github.io/2017/03/01/SJTU_captcha/)** with a precision ~98% (refined from KNN -> Logistic Regression -> CNN)
 - Android malicious APP detection in Pwnzen (2015.06-2015.09)
-- face recognition smart platform development in YITU (2017.06-2017.03)
+- face recognition smart platform development in YITU (2017-2018 total 6 months)
 - Azure Storage File service testing and analysis in Microsoft (2018.06-2018.09)
