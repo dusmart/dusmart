@@ -21,7 +21,7 @@ Self Learning
 **Blockchain Researcher, Onchain** (2021.06-present)
 
 - design and develpment the contracts and profit mechanism for dAPP [NeoBurger](https://neoburger.github.io/) which has a TVL of $50M (cooperating with vang1ong7ang)
-- providing security consulting services for Neo protocol and Neo community, [16 critical risks and 3 serious risks](./neo_security.md) have been found (high contribution to 8 of them, others are guided by vang1ong7ang)
+- providing security consulting services for Neo protocol and Neo community, [16 critical risks and 3 severe risks](./neo_security.md) have been found (high contribution to 8 of them, others are guided by vang1ong7ang)
 - providing security auditing services for dAPPs based on Neo
 
 **Backend Development Engineer, ByteDance** (2019.09-2021.06)
@@ -36,7 +36,7 @@ Self Learning
 
 - Programming: **Golang**, **Python**, C++, javascript
 - [Second Prize](https://www.geekmeta.com/article/4137940.html) of China Blockchain Security Attack and Defense Competition (2021 teamed with vang1ong7ang, zhaochen, yuzhoukai, solved **all solidity quiz** in one click)
-- submit a bug for Binance with bug bounty (2021 P2-level cooperating with vang1ong7ang)
+- submit a bug for a big exchange company with bug bounty (2021 P2-level cooperating with vang1ong7ang)
 - submit a critical bug report for dAPP [DogeRift](https://dogerift.com/) and get a bug bounty (2022 independently)
 
 ## Projects and Intern Experience
