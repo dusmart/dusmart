@@ -30,7 +30,9 @@ Manipulating Random | syscall random | side channel attack by GAS manipulating |
 DoS | syscall CreateMultisigAccount | under-priced | [poc](https://github.com/neo-project/neo/issues/2710) | [issue](https://github.com/neo-project/neo/issues/2710) | [fix](https://github.com/neo-project/neo/pull/2712/files) | main
 DoS | syscall CheckWitness | under-priced cache-miss | [poc](https://github.com/lazynode/Tanya/pull/27/files) | [issue](https://github.com/neo-project/neo/issues/2720) | TODO | main
 DoS | opcodes in O(n) | under-priced | [poc](https://github.com/lazynode/Tanya/pull/28) | [issue](https://github.com/neo-project/neo/issues/2723) | TODO | main
+**Money Print & Control Govenance** | NativeContract | Reentrance | TODO | TODO | [fix](https://github.com/neo-project/neo/pull/2734) | main
 
+* The **Reentrance** in NeoToken contract may print the NEO token in any amount. The same issue exists in the `Vote` method. We contact the core developer only at first and reveal it here after being fixed.
 * The **Potential Risk** is by design. Therefore many APPs suffered from this. I've got a bug bounty from a big exchange and a bug bounty from dogerift thanks for it. The exchange refuse to make its name public.
 * The random manipulation is discussed in [issue](https://github.com/neo-project/neo/issues/2693) with details. I post a POC to convice other developers for which I implemented a partial Murmur128 hash function on chain. My initial method can not attack those carefully-implemented dAPPs with RAUDefender. Roman-khimov's suggestion helped me to bypass the check.
 
