@@ -21,7 +21,7 @@ Self Learning
 **Blockchain Researcher, Onchain** (2021.06-present)
 
 - design and develpment the contracts and profit mechanism for dAPP [NeoBurger](https://neoburger.github.io/) which has a TVL of $50M (cooperating with vang1ong7ang)
-- providing security consulting services for Neo protocol and Neo community, [18 critical risks and 3 severe risks](./neo_security.md) have been found (high contribution to 10 of them, others are guided by vang1ong7ang)
+- providing security consulting services for Neo protocol and Neo community, [1 governance token print bug and 18 critical risks and 3 severe risks](./neo_security.md) have been found (high contribution to 10 of them, others are guided by vang1ong7ang)
 - providing security auditing services for dAPPs based on Neo
 
 **Backend Development Engineer, ByteDance** (2019.09-2021.06)
